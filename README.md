@@ -1,0 +1,2 @@
+# AI_Gesture_Recognition
+使用mediapipe进行开发的手势识别算法
